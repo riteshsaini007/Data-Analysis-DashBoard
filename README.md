@@ -3,7 +3,7 @@ This project is a Data Analysis Dashboard built to visualize and analyze data in
 Data Analysis Dashboard – Annual Sales Report (2022)
 📁 Project Objective
 
-Vrinda Store wants to create an annual sales report for 2022 so that the company can better understand its customers and increase sales in 2023.
+# Vrinda Store wants to create an annual sales report for 2022 so that the company can better understand its customers and increase sales in 2023.
 
 📈 Sample Insights from Data Analysis
 
